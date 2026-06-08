@@ -1,0 +1,48 @@
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  margin-left: 12px;
+  padding: 0;
+  border: 1px solid rgba(233, 30, 99, 0.45);
+  border-radius: 50%;
+  background: transparent;
+  color: #E91E63;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus {
+  background-color: #E91E63;
+  border-color: #E91E63;
+  color: #fff;
+  outline: none;
+}
+
+.theme-toggle .fa-sun,
+.theme-toggle .fa-moon {
+  font-size: 16px;
+}
+
+.dark-vertion .theme-toggle {
+  color: #f7a9c4;
+}
+
+.dark-vertion .theme-toggle:hover,
+.dark-vertion .theme-toggle:focus {
+  color: #fff;
+}
+
+.navbar-nav .theme-toggle-item {
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 991px) {
+  .navbar-nav .theme-toggle-item {
+    padding: 8px 0;
+  }
+}
