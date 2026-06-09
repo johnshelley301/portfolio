@@ -35,7 +35,7 @@ const Home = () => (
                   data-wow-delay="0.5s"
                 >
                   <i className="fa fa-phone" />
-                  <a href="tel:+13125550147">+1 (518) 247-56707</a>
+                  <a href="tel:+15182475670">+1 (518) 247-5670</a>
                 </li>
                 <li
                   className="wow fadeInUp"
