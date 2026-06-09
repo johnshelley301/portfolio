@@ -22,7 +22,7 @@ const About = () => (
               About
             </h3>
             <p className="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">
-              I&apos;m a freelance full-stack web developer for hire, based in Chicago, USA
+              I&apos;m a full-stack web developer for hire, based in Chicago, USA
               and available for remote work with clients worldwide. I work with individuals,
               businesses, and startups to design and develop fast, secure, and modern websites
               and web applications that are reliable, scalable, and built for long-term success.

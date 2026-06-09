@@ -150,7 +150,7 @@ export const contactMethods = [
         "0.5px 0 0 currentColor,-0.5px 0 0 currentColor,0 0.5px 0 currentColor,0 -0.5px 0 currentColor",
     },
     title: "WhatsApp",
-    detail: "+1 (312) 555-0147",
+    detail: "+1 (518) 247-5670",
     href: "https://wa.me/13125550147",
     label: "Message Me",
     external: true,

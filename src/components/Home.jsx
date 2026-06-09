@@ -26,7 +26,7 @@ const Home = () => (
                 data-wow-duration="0.8s"
                 data-wow-delay="0.4s"
               >
-                Freelance Full-Stack Web Developer
+                Full-Stack Web Developer
               </h1>
               <ul>
                 <li
@@ -35,7 +35,7 @@ const Home = () => (
                   data-wow-delay="0.5s"
                 >
                   <i className="fa fa-phone" />
-                  <a href="tel:+13125550147">+1 (312) 555-0147</a>
+                  <a href="tel:+13125550147">+1 (518) 247-56707</a>
                 </li>
                 <li
                   className="wow fadeInUp"
@@ -43,7 +43,7 @@ const Home = () => (
                   data-wow-delay="0.4s"
                 >
                   <i className="fa fa-envelope" />
-                  <a href="mailto:contact@johnshelley.com">contact@johnshelley.com</a>
+                  <a href="mailto:johnshelley26@gmail.com">johnshelley26@gmail.com</a>
                 </li>
                 <li
                   className="wow fadeInUp"
@@ -86,8 +86,8 @@ const Home = () => (
               <div className="img-border">
                 <img
                   src="/content/omaralkhatib.jpg"
-                  alt="Freelance Full-Stack Web Developer | John Shelley"
-                  title="Freelance Full-Stack Web Developer | John Shelley"
+                  alt="Full-Stack Web Developer | John Shelley"
+                  title="Full-Stack Web Developer | John Shelley"
                   className="img-fluid"
                 />
               </div>
